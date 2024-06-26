@@ -1,4 +1,4 @@
-name: portfolio
+name: create portfolio
 on:
   schedule:
     # Runs every hour
